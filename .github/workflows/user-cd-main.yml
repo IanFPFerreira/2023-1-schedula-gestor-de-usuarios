@@ -1,4 +1,4 @@
-name: location-cd-main
+name: user-cd-main
 
 on:
   push:

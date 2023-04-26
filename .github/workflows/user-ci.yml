@@ -1,4 +1,4 @@
-name: location-ci
+name: user-ci
 
 on:
   workflow_call:
