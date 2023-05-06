@@ -37,5 +37,6 @@ yarn start
 ```
 
 
+
 ## Documentation
 Project documentaion can be found [here](https://github.com/fga-eps-mds/2022-1-schedula-doc)
